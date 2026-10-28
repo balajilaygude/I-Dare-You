@@ -13,23 +13,23 @@ export const dares = [
   },
   {
     id: 4,
-    text: "Text someone: “I have a very important question…” and then ask them what their favorite snack is.",
+    text: "Answer one honest question or take another dare.",
   },
-{
-  id: 5,
-  text: "Talk like a news reporter for 30 seconds.",
-},
+  {
+    id: 5,
+    text: "Talk like a news reporter for 30 seconds.",
+  },
   {
     id: 6,
     text: "Take the funniest selfie you can and keep it as your profile picture for 10 minutes.",
   },
   {
     id: 7,
-    text: "Try to balance a spoon on your nose for 20 seconds.",
+    text: "Keep a straight face while being roasted for 30 seconds.",
   },
   {
     id: 8,
-    text: "Call a friend and sing them Happy Birthday, even if it isn't their birthday.",
+    text: "Sell a random object for ₹1 lakh in 20 seconds.",
   },
   {
     id: 9,
@@ -37,7 +37,7 @@ export const dares = [
   },
   {
     id: 10,
-    text: "Send someone a random emoji and refuse to explain it.",
+    text: "Make up a scary story using 3 random words.",
   },
   {
     id: 11,
@@ -49,15 +49,15 @@ export const dares = [
   },
   {
     id: 13,
-    text: "Try to make yourself laugh without touching your phone.",
+    text: "Make the other person laugh in 30 seconds.",
   },
   {
     id: 14,
-    text: "Pretend the floor is lava for 30 seconds.",
+    text: "Agree with everything the other person says for 1 minute.",
   },
   {
     id: 15,
-    text: "Send a friend your best motivational speech in a voice message.",
+    text: "Create a story using 3 random objects.",
   },
   {
     id: 16,
@@ -85,11 +85,11 @@ export const dares = [
   },
   {
     id: 22,
-    text: "Try to touch your nose with your tongue.",
+    text: "Avoid saying a chosen word for 3 minutes.",
   },
   {
     id: 23,
-    text: "Send a friend a completely random compliment.",
+    text: "Reveal your most irrational fear.",
   },
   {
     id: 24,
@@ -113,11 +113,11 @@ export const dares = [
   },
   {
     id: 29,
-    text: "Create a secret handshake with yourself.",
+    text: "Play 5 rounds of rock-paper-scissors. The loser takes a bonus dare.",
   },
   {
     id: 30,
-    text: "Try to keep a completely straight face while making silly faces.",
+    text: "Answer 5 rapid-fire 'Would you rather?' questions.",
   },
   {
     id: 31,
@@ -125,35 +125,35 @@ export const dares = [
   },
   {
     id: 32,
-    text: "Pretend you're on a cooking show and explain how to make toast.",
+    text: "Name 3 things in a category within 5 seconds.",
   },
-{
-  id: 33,
-  text: "Send a friend your best selfie and ask, “Be honest. What vibe am I giving?”",
-},
-{
-  id: 34,
-  text: "Text a friend: “I have a very important question.” Then ask: “Pizza or burger?”",
-},
+  {
+    id: 33,
+    text: "Name 10 things starting with a random letter in 20 seconds.",
+  },
+  {
+    id: 34,
+    text: "Reveal a secret nobody would guess.",
+  },
   {
     id: 35,
-    text: "Send someone a voice message saying their name in the most dramatic way possible.",
+    text: "Say one sentence in 5 different emotions.",
   },
-{
-  id: 36,
-  text: "Open your camera and give yourself a 20-second motivational speech as if you're about to walk into the biggest moment of your life.",
-},
+  {
+    id: 36,
+    text: "Choose one of 3 mystery dares.",
+  },
   {
     id: 37,
     text: "Describe your outfit like you're selling it on a luxury fashion website.",
   },
   {
     id: 38,
-    text: "Pretend your phone is a microphone and perform a concert for 30 seconds.",
+    text: "Memorize 8 objects, then name as many as you can.",
   },
   {
     id: 39,
-    text: "Say five nice things about yourself out loud.",
+    text: "Name 5 things you're better at than the other person.",
   },
   {
     id: 40,
@@ -165,7 +165,7 @@ export const dares = [
   },
   {
     id: 42,
-    text: "Send a friend a message that says “We need to talk.” Then immediately send a meme.",
+    text: "Defend yourself against a ridiculous made-up rumour.",
   },
   {
     id: 43,
@@ -173,7 +173,7 @@ export const dares = [
   },
   {
     id: 44,
-    text: "Make the weirdest sound you can think of.",
+    text: "Play the forbidden-word challenge for 2 minutes.",
   },
   {
     id: 45,
@@ -181,7 +181,7 @@ export const dares = [
   },
   {
     id: 46,
-    text: "Explain how to brush your teeth like you're teaching an alien.",
+    text: "Talk about a random topic for 45 seconds without pausing.",
   },
   {
     id: 47,
@@ -189,14 +189,14 @@ export const dares = [
   },
   {
     id: 48,
-    text: "Send someone a selfie with your most confused expression.",
+    text: "Make 3 predictions about the other person's personality.",
   },
-{
-  id: 49,
-  text: "Send a close friend a completely serious message saying: “I need your honest opinion about something.” Then ask them which fictional character you remind them of.",
-},
+  {
+    id: 49,
+    text: "Let the other person guess the story behind your last 5 emojis.",
+  },
   {
     id: 50,
-    text: "Strike your most ridiculous pose and hold it for 15 seconds.",
+    text: "Follow a ridiculous rule chosen by the other person for 2 minutes.",
   },
 ];
