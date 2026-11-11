@@ -11,10 +11,10 @@ export const dares = [
     id: 3,
     text: "Dance for 20 seconds without playing any music.",
   },
-  {
-    id: 4,
-    text: "Answer one honest question or take another dare.",
-  },
+{
+  id: 4,
+  text: "Sing your favorite song.",
+},
   {
     id: 5,
     text: "Talk like a news reporter for 30 seconds.",
@@ -23,18 +23,18 @@ export const dares = [
     id: 6,
     text: "Take the funniest selfie you can and keep it as your profile picture for 10 minutes.",
   },
-  {
-    id: 7,
-    text: "Keep a straight face while being roasted for 30 seconds.",
-  },
+{
+  id: 7,
+  text: "Walk like a penguin.",
+},
   {
     id: 8,
     text: "Sell a random object for ₹1 lakh in 20 seconds.",
   },
-  {
-    id: 9,
-    text: "Do 15 squats while dramatically narrating what you're doing.",
-  },
+{
+  id: 9,
+  text: "Give everyone a funny nickname.",
+},
   {
     id: 10,
     text: "Make up a scary story using 3 random words.",
@@ -91,10 +91,10 @@ export const dares = [
     id: 23,
     text: "Reveal your most irrational fear.",
   },
-  {
-    id: 24,
-    text: "Narrate everything you do for the next 60 seconds like a documentary.",
-  },
+{
+  id: 24,
+  text: "Start a group high-five chain.",
+},
   {
     id: 25,
     text: "Do your best impression of a robot.",
@@ -113,7 +113,7 @@ export const dares = [
   },
   {
     id: 29,
-    text: "Play 5 rounds of rock-paper-scissors. The loser takes a bonus dare.",
+    text: "Play 5 rounds of rock-paper-scissors.",
   },
   {
     id: 30,
@@ -123,10 +123,10 @@ export const dares = [
     id: 31,
     text: "Give yourself a ridiculous nickname and use it for the next 10 minutes.",
   },
-  {
-    id: 32,
-    text: "Name 3 things in a category within 5 seconds.",
-  },
+{
+  id: 32,
+  text: "Name 10 colors in 5 seconds.",
+},
   {
     id: 33,
     text: "Name 10 things starting with a random letter in 20 seconds.",
@@ -139,10 +139,10 @@ export const dares = [
     id: 35,
     text: "Say one sentence in 5 different emotions.",
   },
-  {
-    id: 36,
-    text: "Choose one of 3 mystery dares.",
-  },
+{
+  id: 36,
+  text: "Make 3 different animal sounds.",
+},
   {
     id: 37,
     text: "Describe your outfit like you're selling it on a luxury fashion website.",
@@ -151,10 +151,10 @@ export const dares = [
     id: 38,
     text: "Memorize 8 objects, then name as many as you can.",
   },
-  {
-    id: 39,
-    text: "Name 5 things you're better at than the other person.",
-  },
+{
+  id: 39,
+  text: "Laugh without smiling.",
+},
   {
     id: 40,
     text: "Make up a ridiculous product and give it a 30-second advertisement.",
@@ -191,12 +191,12 @@ export const dares = [
     id: 48,
     text: "Make 3 predictions about the other person's personality.",
   },
-  {
-    id: 49,
-    text: "Let the other person guess the story behind your last 5 emojis.",
-  },
+{
+  id: 49,
+  text: "Wiggle your ears.",
+},
   {
     id: 50,
     text: "Follow a ridiculous rule chosen by the other person for 2 minutes.",
-  },
+  }
 ];
