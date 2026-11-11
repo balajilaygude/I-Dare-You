@@ -193,7 +193,7 @@ export const dares = [
   },
 {
   id: 49,
-  text: "Wiggle your ears.",
+  text: "Try not to blink for 60 seconds",
 },
   {
     id: 50,
